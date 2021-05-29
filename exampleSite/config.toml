@@ -3,7 +3,7 @@ disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
-theme = "persian"
+theme = "KK"
 title = "Kırkayak Kültür"
 [markup.goldmark.renderer]
 unsafe = true
@@ -32,8 +32,8 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-description = "This is meta description"
+copyright = "Theme Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/) & Webmaster [Murat Kaya](mailto: muratkaya@kirkayak.org)"
+description = "Kırkayak Kültür"
 logo = "images/logo.png"
 search = true
 [params.cookies]
