@@ -5,7 +5,7 @@ author: Mehmet Emin Keskin
 tags:
 
 ---
-<p align="center">
+<p align="center">  
 **Mehmet Emin Keskin**
 Ankara/ İskele  
 12.sınıf  
