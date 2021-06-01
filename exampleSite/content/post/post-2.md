@@ -2,8 +2,7 @@
 title: Master
 image: "/images/MehmetEmin.jpg"
 author: Mehmet Emin Keskin
-tags:
-- Mehmet Emin Keskin
+tags: []
 
 ---
 **Mehmet Emin Keskin**
