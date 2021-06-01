@@ -8,13 +8,13 @@ title = "Kırkayak Kültür"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Proje Hakkında"
-url = "project"
-weight = "3"
-[[menu.main]]
 name = "İletişim"
 url = "contact"
 weight = 4
+[[menu.main]]
+name = "Proje Hakkında"
+url = "project"
+weight = "3"
 [[menu.main]]
 name = "Hakkımızda"
 url = "about"
