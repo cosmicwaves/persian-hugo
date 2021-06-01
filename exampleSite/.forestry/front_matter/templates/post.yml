@@ -8,6 +8,15 @@ fields:
 - type: file
   name: image
   label: image
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
 - type: text
   name: author
   label: author
