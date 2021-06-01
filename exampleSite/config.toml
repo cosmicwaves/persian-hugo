@@ -8,17 +8,13 @@ title = "Kırkayak Kültür"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 5
+name = "Proje Hakkında"
+url = "project"
+weight = "3"
 [[menu.main]]
 name = "İletişim"
 url = "contact"
 weight = 4
-[[menu.main]]
-name = "Category"
-url = "categories/nature/"
-weight = 3
 [[menu.main]]
 name = "Hakkımızda"
 url = "about"
