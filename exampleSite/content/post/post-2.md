@@ -7,11 +7,7 @@ tags:
 ---
 <p align="center">
 **Mehmet Emin Keskin**
-
 Ankara/ İskele
-
 12.sınıf
-
 18 yaşında
-
 </p>
