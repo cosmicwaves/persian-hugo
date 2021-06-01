@@ -8,8 +8,8 @@ text: "<p>Mehmet Emin Keskin </p><p>Ankara/ İskele </p><p>12.sınıf </p><p>18 
 ---
 **Mehmet Emin Keskin**
 
-**Ankara/ İskele**
+Ankara/ İskele
 
-**12.sınıf**
+12.sınıf
 
-**18 yaşında**
+18 yaşında
