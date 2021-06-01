@@ -2,7 +2,6 @@
 title: Master
 image: "/images/MehmetEmin.jpg"
 author: Mehmet Emin Keskin
-description: Master
 
 ---
 **Mehmet Emin Keskin**
