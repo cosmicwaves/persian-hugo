@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "Theme Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/) & Webmaster [Murat Kaya](muratkaya@kirkayak.org)"
+copyright = "Theme Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/) & Webmaster [Murat Kaya](mailto:muratkaya@kirkayak.org)"
 description = "Kırkayak Kültür"
 logo = "images/logo.png"
 search = true
