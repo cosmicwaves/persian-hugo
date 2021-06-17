@@ -10,12 +10,9 @@ categories: []
 <img class="special-img-class" src="/images/mehmet_emin/mehmet_emin1.jpg"/>
 
 
-<label for="story">Mastar:</label>
-
-<textarea id="story" name="story"
-          rows="5" cols="33">
-          Mehmet Emin Keskin
-          Ankara/ İskele  
-          12.sınıf  
-          18 yaşında  
-</textarea>
+<p>
+          Mehmet Emin Keskin<br>
+          Ankara/ İskele<br>  
+          12.sınıf<br>  
+          18 yaşında<br>  
+</p>
