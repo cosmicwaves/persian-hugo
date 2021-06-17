@@ -1,10 +1,13 @@
 ---
 title: Master
-image: "/images/MehmetEmin.jpg"
+image: "/images/mehmet_emin/MehmetEmin.jpg"
 author: Mehmet Emin Keskin
 tags:
 
 ---
+
+![](/images/mehmet_emin/mehmet_emin1.jpg)
+
 <p align="center">  
 **Mehmet Emin Keskin**
 Ankara/ İskele  
