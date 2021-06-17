@@ -2,10 +2,10 @@
 title: Master
 image: "/images/mehmet_emin/MehmetEmin.jpg"
 author: Mehmet Emin Keskin
-tags:
+tags: 
+categories: []
 
 ---
-
 ![](/images/mehmet_emin/mehmet_emin1.jpg)
 
 <p align="center">  
