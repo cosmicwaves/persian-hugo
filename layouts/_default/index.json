@@ -1,5 +1,5 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range where site.RegularPages "Section" "post" -}}
-  {{- $.Scratch.Add "index" (dict "title" .Title "date" $date "month" $month "tags" .Params.tags "image" .Params.image "categories" .Params.categories "contents" .Plain "permalink" .Permalink) -}}
+  {{- $.Scratch.Add "index" (dict "title" .Title "month" $month "tags" .Params.tags "image" .Params.image "categories" .Params.categories "contents" .Plain "permalink" .Permalink) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
