@@ -10,7 +10,7 @@ categories: []
 <img class="special-img-class" src="/images/mehmet_emin/mehmet_emin1.jpg"/>
 
 
-<p>
+<p align = "center">
           Mehmet Emin Keskin<br>
           Ankara/ İskele<br>  
           12.sınıf<br>  
