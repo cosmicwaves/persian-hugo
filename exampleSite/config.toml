@@ -10,11 +10,15 @@ unsafe = true
 [[menu.main]]
 name = "İletişim"
 url = "contact"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "Hakkımızda"
 url = "about"
 weight = 2
+[[menu.main]]
+name = "Proje Hakkında"
+url = "about2"
+weight = 3
 [[menu.main]]
 name = "Anasayfa"
 url = "/"

@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: Author
@@ -36,6 +36,9 @@ sections:
 - type: directory
   path: exampleSite
   label: Configuration
+- type: document
+  label: about2
+  path: exampleSite/content/about2/_index.md
   create: all
   match: "*.toml"
   new_doc_ext: toml
