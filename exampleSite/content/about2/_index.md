@@ -1,6 +1,6 @@
 ---
-title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
-image: "images/author.png"
+title: "Aile Fotoğrafları ve Ev Hikâyeleri Atölyesi"
+image: "images/author2.png"
 description: "This is meta description."
 draft: false
 ---
@@ -18,4 +18,4 @@ Sergide, aile fotoğrafları yalnızca nostaljik bir imge olarak değil, aynı z
 ## Eda Çekil
 https://edacekil.com/
 
-Born in 1985 in İzmir, Eda Çekil completed her undergraduate degree at Dokuz Eylül University’s Photography Department in the Faculty of Fine Arts and received her Master’s degree in Galatasaray University’s Media and Communications Studies program. She completed her PhD in Kocaeli University’s Plastic Arts Proficiency on family photos and gender studies. The artist also works as a Research Assistant at Istanbul Okan University’s Faculty of Art, Design, and Architecture. Her works, mostly based on her personal history, combine photography and different mediums on the axis of gender.
+1985'te İzmir'de doğan Eda Çekil, lisans eğitimini Dokuz Eylül Üniversitesi Güzel Sanatlar Fakültesi Fotoğrafçılık bölümünde tamamladı. Yüksek lisansını, Galatasaray Üniversitesi Medya ve İletişim programında tamamladı. Kocaeli Üniversitesi Plastik Sanatlar programında aile fotoğrafları ve toplumsal cinsiyet çalışmaları üzerine doktorasını tamamladı. Sanatçı İstanbul Okan Üniversitesi Sanat, Tasarım ve Mimarlık fakültesinde araştırma görevlisi olarak da çalışmaktadır. Çalışmaları çoğunlukla geçmişine odaklanır ve fotoğraf ve diğer materyallerin toplumsal cinsiyet ekseninde harmanlanmasına dayanmaktadır.
