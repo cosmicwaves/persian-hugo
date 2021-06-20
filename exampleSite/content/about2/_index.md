@@ -1,6 +1,6 @@
 ---
 title: "Aile Fotoğrafları ve Ev Hikâyeleri Atölyesi"
-image: "images/author2.png"
+image: "images/author2.jpg"
 description: "This is meta description."
 draft: false
 ---
@@ -14,7 +14,7 @@ Sergide, aile fotoğrafları yalnızca nostaljik bir imge olarak değil, aynı z
 <br>
 <br>
 
-# Kuratör
+# Atölye Yürütücüsü
 ## Eda Çekil
 https://edacekil.com/
 
