@@ -1,38 +1,8 @@
 ---
-title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
+title: "Kırkayak Kültür Hakkında"
 image: "images/author.png"
 description: "This is meta description."
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
-
-<br>
-<br>
-
-## My Education
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Hobbies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Experiences
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-1. Et ipsum euismod et aenean duis.
-2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean diam konta.
+Kırkayak Kültür; kültürün ve sanatın, toplumsal gelişme odaklı, katılımcı ve çok sesli bir yaklaşımla yaygınlaşmasını, karşılıklı anlayışın kültürel iletişimle sağlanmasını hedefleyen bir sivil toplum girişimi olarak kültür paylaşımı ve sanat üretimi yapmak için 2009 yılında, Antep’te yaşayan akademisyen, sanatçı, avukat, doktor, gibi farklı mesleklerden oluşan bir grup gönüllü ile  çalışmalarına başladı. Kırkayak Kültür;kültürün ve sanatın, toplumsal gelişme odaklı, katılımcı ve çok sesli bir yaklaşımla yaygınlaşmasını, karşılıklı anlayışın kültürel iletişimle sağlanmasını hedefleyen bir sivil toplum girişimi olarak kültür paylaşımı ve sanat üretimi yapmak için çalışmalarına başladı. Kırkayak Kültür, sanatın ve kültürel alanın paylaşılmasıyla karşılıklı anlayış ve duyarlılıkların artacağına ve bölgesel farklılıkların ve önyargıların açılabileceğine inanan, zengin kültürel mirasa sahip Anadolu kentlerinde kültürel hayatın canlanması ve kent aidiyetinin de modern vatandaşlık kavramına uygun biçimde gelişmesine yol açacağı düşüncesiyle kültür sanat programları yürütmektedir. Kültürün, kentsel gelişmeyi biçimlendirmesinin, sanat alanında kurulacak karşılıklı ilişkilerin, toplumsal uyumun, kültürlerarası iletişimin ve ilişkilerin gelişmesinin, Türkiye’nin kendi içinde olduğu kadar, özellikle bulunduğu Ortadoğu olmak üzere,  dünya ile de bütünleşmesi ve ilişki kurması açısından önemli olduğunu düşünerek 2011 yılında çalışmalarına başladı. Kurulduğu günden bu yana tarihi bir _Taş Ev_de çalışmalarını sürdürmektedir. Kurulduğu yıl Ortadoğu’da başlayan halk  ayaklanmaları ve ardından yaşanan çatışmalı süreçle birlikte Suriyeli mültecilerin Türkiye’ye kitlesel sığınmaya başlamalrıyla birlikte Ortadoğu ve de göç alanında çalışmalarına başladı. Göç alanında “birlikte yaşam, toplumsal uyum eksenli çalışmalara yapan kurum bugün iki farklı mekanda iki merkezli bir yapıda çalışmalarına devam etmektedir. Kırkayak Kültür; Kırkayak Sanat Merkezi (Taş Ev) ve Göç ve Kültürel Çalışmalar Merkezi olmak üzere hak temelli çalışmalar yapan, Ortadoğu ülkelerini de kapsayan bölgede çalışmalar yürütmektedir.
