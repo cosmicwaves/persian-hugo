@@ -1,5 +1,6 @@
 baseURL = "https://kirkayak.netlify.app/"
 disqusShortname = ""
+relativeURLs = TRUE
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
