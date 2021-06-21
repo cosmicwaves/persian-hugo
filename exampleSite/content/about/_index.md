@@ -1,6 +1,8 @@
 ---
 title: "Kırkayak Kültür Hakkında"
 image: "images/author.png"
+aliases:
+    - /post/post-10/
 description: "This is meta description."
 draft: false
 ---
